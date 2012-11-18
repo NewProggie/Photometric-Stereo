@@ -12,5 +12,8 @@
 *.la
 *.a
 
+# OSX trash
+.DS_Store
+
 # build directory
 build/
