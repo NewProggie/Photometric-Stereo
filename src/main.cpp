@@ -7,7 +7,7 @@
 #include <vtkSmartPointer.h>
 #include <vtkPolyDataMapper.h>
 #include <vtkPolyData.h>
-#include <vtkActor.h>
+#include <vtkActor.h>rt
 #include <vtkProperty.h>
 #include <vtkImageViewer.h>
 #include <vtkRenderWindowInteractor.h>
